@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(to right,rgb(61, 105, 132),rgb(102, 142, 71));
+}
+.one{width:400px;
+height:250px;
+padding:50px;
+margin:0 auto;
+margin-top:100px;
+text-align:center;
+border: solid;
+border-color: rgb(96, 167, 143);
+border-radius: 20px;
+background-color: rgb(59, 59, 147);
+}
+
+#one{
+height:220px;
+margin:0 auto;
+border-style:solid;
+background-color:rgb(242, 100, 100);
+overflow:scroll;
+width:50px;
+}
